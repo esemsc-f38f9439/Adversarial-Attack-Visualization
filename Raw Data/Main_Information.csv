@@ -1,0 +1,37 @@
+Description,Results
+MAIN INFORMATION ABOUT DATA,
+Timespan,2011:2021
+"Sources (Journals, Books, etc)",1605
+Documents,5923
+Average years from publication,2.77
+Average citations per documents,10.9
+Average citations per year per doc,2.229
+References,167166
+DOCUMENT TYPES,
+,1
+stolfo,1
+article,1651
+book,5
+book chapter,53
+conference paper,3903
+conference review,240
+data paper,1
+editorial,2
+letter,7
+note,1
+review,76
+short survey,1
+DOCUMENT CONTENTS,
+Keywords Plus (ID),17616
+Author's Keywords (DE),7904
+AUTHORS,
+Authors,10124
+Author Appearances,22874
+Authors of single-authored documents,155
+Authors of multi-authored documents,9969
+AUTHORS COLLABORATION,
+Single-authored documents,406
+Documents per Author,0.587
+Authors per Document,1.7
+Co-Authors per Documents,3.85
+Collaboration Index,1.8

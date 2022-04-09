@@ -1,0 +1,51 @@
+﻿id,label,x,y,cluster,weight<Links>,weight<Total link strength>,weight<Citations>
+6537,"akhtar, n., mian, a., threat of adversarial attacks on deep learning in computer vision: a survey (2018) ieee access, 6, pp. 14410-14430",0.0868,-0.5823,4,47,307,180
+10935,"athalye, a., carlini, n., wagner, d., (2018) obfuscated gradients give a false sense of security: circumventing defenses to adversarial examples",0.9409,0.3106,2,36,247,67
+17619,"biggio, b., corona, i., maiorca, d., nelson, b., srndic, n., laskov, p., giacinto, g., roli, f., evasion attacks against machine learning at test time (2013) joint european conference on machine learning and knowledge discovery in databases, pp. 387-402. , springer",-0.2961,0.3369,1,44,189,69
+18362,"biggio, b., roli, f., wild patterns: ten years after the rise of adversarial machine learning (2018) pattern recognition, 84, pp. 317-331",0.2747,-0.0158,4,35,81,49
+25301,"carlini, n., wagner, d., towards evaluating the robustness of neural networks (2017) 2017 ieee symposium on security and privacy (sp), pp. 39-57",0.134,0.386,3,42,302,93
+25307,"carlini, n., wagner, d., towards evaluating the robustness of neural networks (2017) 2017 ieee symposium on security and privacy (sp), pp. 39-57. , ieee",-0.086,-0.4264,1,45,356,109
+25332,"carlini, n., wagner, d., towards evaluating the robustness of neural networks (2017) 2017 ieee symposium on security and privacy (sp). ieee, pp. 39-57",0.2047,-0.4087,2,39,192,55
+25608,"carlini, n., wagner, d., towards evaluating the robustness of neural networks (2017) security and privacy (sp), 2017 ieee symposium on, pp. 39-57. , ieee",-0.6625,0.2907,3,37,160,56
+41270,"dong, y., liao, f., pang, t., su, h., zhu, j., hu, x., li, j., boosting adversarial attacks with momentum (2018) proceedings of the ieee conference on computer vision and pattern recognition, pp. 9185-9193",-0.5726,-0.015,1,43,289,80
+53879,"goodfellow, i. j., shlens, j., szegedy, c., (2014) explaining and harnessing adversarial examples, , arxiv preprint arxiv:1412.6572",-0.6372,-0.6912,1,26,153,52
+54238,"goodfellow, i., pouget-abadie, j., mirza, m., xu, b., warde-farley, d., ozair, s., courville, a., bengio, y., generative adversarial nets (2014) advances in neural information processing systems, pp. 2672-2680",-0.4717,-0.2053,1,43,286,132
+54441,"goodfellow, i., shlens, j., szegedy, c., explaining and harnessing adversarial examples (2015) international conference on learning representations",0.2057,0.1561,6,37,191,77
+54722,"goodfellow, i.j., shlens, j., szegedy, c., (2014) explaining and harnessing adversarial examples",0.5275,-0.6045,2,44,906,301
+54763,"goodfellow, i.j., shlens, j., szegedy, c., (2014) explaining and harnessing adversarial examples, , arxiv preprint",-1.0335,0.375,3,24,258,89
+54789,"goodfellow, i.j., shlens, j., szegedy, c., (2014) explaining and harnessing adversarial examples, , arxiv preprint arxiv:1412.6572",-1.0548,-0.3365,1,26,126,47
+55113,"goodfellow, i.j., shlens, j., szegedy, c., explaining and harnessing adversarial examples (2015) iclr",0.6086,0.8907,5,30,161,90
+55161,"goodfellow, i.j., shlens, j., szegedy, c., explaining and harnessing adversarial examples (2015) international conference on learning representations",-0.0386,0.7998,6,28,121,67
+61466,"he, k., zhang, x., ren, s., sun, j., deep residual learning for image recognition (2016) cvpr",0.6824,0.6375,5,21,96,52
+61614,"he, k., zhang, x., ren, s., sun, j., deep residual learning for image recognition (2016) proceedings of the ieee conference on computer vision and pattern recognition, pp. 770-778",-0.2536,0.0364,1,48,852,245
+63916,"hochreiter, s., schmidhuber, j., long short-term memory (1997) neural computation, 9 (8), pp. 1735-1780",-0.2297,-0.67,4,38,104,47
+77582,"kingma, d.p., ba, j., (2014) adam: a method for stochastic optimization",0.7684,-0.4333,2,32,125,48
+80470,"krizhevsky, a., hinton, g., (2009) learning multiple layers of features from tiny images",-0.0942,0.4609,3,45,219,77
+80820,"krizhevsky, a., sutskever, i., hinton, g.e., imagenet classification with deep convolutional neural networks (2012) advances in neural information processing systems, pp. 1097-1105",-0.0225,-0.0609,4,47,476,154
+81923,"kurakin, a., goodfellow, i., bengio, s., (2016) adversarial examples in the physical world",0.519,-0.3472,2,43,601,193
+81941,"kurakin, a., goodfellow, i., bengio, s., (2016) adversarial examples in the physical world, , arxiv preprint",-0.6346,0.7804,3,31,193,60
+81957,"kurakin, a., goodfellow, i., bengio, s., (2016) adversarial examples in the physical world, , arxiv preprint arxiv:1607.02533",-0.8705,-0.5011,1,28,180,56
+82021,"kurakin, a., goodfellow, i., bengio, s., (2016) adversarial machine learning at scale",0.9087,0.0406,2,36,329,77
+84633,"lecun, y., bengio, y., hinton, g., deep learning (2015) nature, 521 (7553), p. 436",-0.4518,-0.5435,1,33,96,53
+84638,"lecun, y., bengio, y., hinton, g., deep learning (2015) nature, 521 (7553), pp. 436-444",0.1496,-0.8584,4,23,59,50
+84732,"lecun, y., bottou, l., bengio, y., haffner, p., gradient-based learning applied to document recognition (1998) proceedings of the ieee, 86 (11), pp. 2278-2324",-0.0152,0.1805,3,45,271,100
+96445,"madry, a., makelov, a., schmidt, l., tsipras, d., vladu, a., (2017) towards deep learning models resistant to adversarial attacks",0.9071,-0.2449,2,39,502,139
+96467,"madry, a., makelov, a., schmidt, l., tsipras, d., vladu, a., (2017) towards deep learning models resistant to adversarial attacks, , arxiv preprint",-0.9699,0.5807,3,24,156,47
+96488,"madry, a., makelov, a., schmidt, l., tsipras, d., vladu, a., (2017) towards deep learning models resistant to adversarial attacks, , arxiv preprint arxiv:1706.06083",-0.774,-0.3214,1,30,151,48
+96683,"madry, a., makelov, a., schmidt, l., tsipras, d., vladu, a., towards deep learning models resistant to adversarial attacks (2018) iclr",0.4013,0.8854,5,33,153,85
+96714,"madry, a., makelov, a., schmidt, l., tsipras, d., vladu, a., towards deep learning models resistant to adversarial attacks (2018) international conference on learning representations",-0.2757,0.5741,6,39,264,96
+104171,"moosavi-dezfooli, s.-m., fawzi, a., frossard, p., deepfool: a simple and accurate method to fool deep neural networks (2016) proceedings of the ieee conference on computer vision and pattern recognition, pp. 2574-2582",-0.3331,-0.335,1,47,562,142
+108116,"nguyen, a., yosinski, j., clune, j., deep neural networks are easily fooled: high confidence predictions for unrecognizable images (2015) proceedings of the ieee conference on computer vision and pattern recognition, pp. 427-436",-0.4751,0.1337,1,44,196,55
+112105,"papernot, n., mcdaniel, p., goodfellow, i., (2016) transferability in machine learning: from phenomena to black-box attacks using adversarial samples",0.6381,0.274,2,40,238,80
+113230,"papernot, n., mcdaniel, p., wu, x., jha, s., swami, a., distillation as a defense to adversarial perturbations against deep neural networks (2016) 2016 ieee symposium on security and privacy (sp), pp. 582-597. , ieee",0.0682,-0.2242,1,44,193,50
+121942,"ren, s., he, k., girshick, r., sun, j., faster r-cnn: towards real-time object detection with region proposal networks (2015) advances in neural information processing systems, pp. 91-99",-0.806,0.0504,1,33,123,44
+133688,"simonyan, k., zisserman, a., (2014) very deep convolutional networks for large-scale image recognition",0.675,-0.1601,2,40,348,95
+139669,"szegedy, c., (2013) intriguing properties of neural networks",1.1636,-0.4647,2,20,112,52
+140217,"szegedy, c., vanhoucke, v., ioffe, s., shlens, j., wojna, z., rethinking the inception architecture for computer vision (2016) proceedings of the ieee conference on computer vision and pattern recognition, pp. 2818-2826",-0.2376,-0.1716,1,46,247,80
+140341,"szegedy, c., zaremba, w., sutskever, i., bruna, j., erhan, d., goodfellow, i., fergus, r., (2013) intriguing properties of neural networks",0.6111,0.001,2,40,747,217
+140362,"szegedy, c., zaremba, w., sutskever, i., bruna, j., erhan, d., goodfellow, i., fergus, r., (2013) intriguing properties of neural networks, , arxiv preprint",-0.7658,0.5461,3,35,266,87
+140379,"szegedy, c., zaremba, w., sutskever, i., bruna, j., erhan, d., goodfellow, i., fergus, r., (2013) intriguing properties of neural networks, , arxiv preprint arxiv:1312.6199",-0.8368,-0.7016,1,30,241,78
+140530,"szegedy, c., zaremba, w., sutskever, i., bruna, j., erhan, d., goodfellow, i., fergus, r., intriguing properties of neural networks (2014) iclr",0.4194,0.641,5,32,140,79
+140554,"szegedy, c., zaremba, w., sutskever, i., bruna, j., erhan, d., goodfellow, i., fergus, r., intriguing properties of neural networks (2014) international conference on learning representations",0.1247,0.6379,6,37,235,91
+144526,"tramer, f., kurakin, a., papernot, n., goodfellow, i., boneh, d., mcdaniel, p., (2017) ensemble adversarial training: attacks and defenses",1.0948,-0.0185,2,34,235,47
+158216,"xu, w., evans, d., qi, y., (2017) feature squeezing: detecting adversarial examples in deep neural networks",0.785,-0.6642,2,33,209,46
