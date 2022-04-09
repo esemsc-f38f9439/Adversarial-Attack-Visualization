@@ -3,7 +3,7 @@ This repository contains the dataset, network node information and visualization
 
 Main Information
 -----------------
-Repository contains the information of 5923 articles, 12 visualization result pictures and the corresponding network node information used to generate the pictures. The general article information is shown in the table. Details are in [d](./Raw-Data).
+Repository contains the information of 5923 articles, 12 visualization result pictures and the corresponding network node information used to generate the pictures. The general article information is shown in the table. Details are in [d](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/tree/main/Raw%20Data/2011-2021).
 |  Description   | Results  |
 |  :----:  | :----:  |
 | Timespan  | 2011:2021 |
