@@ -3,7 +3,7 @@ This repository contains the dataset, network node information and visualization
 
 Main Information
 -----------------
-Repository contains the information of 5923 articles, 12 visualization result pictures and the corresponding network node information used to generate the pictures. The general article information is shown in the table. Details are in [d](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/tree/main/Raw%20Data/2011-2021).
+Repository contains the information of 5923 articles, 12 visualization result pictures and the corresponding network node information used to generate the pictures. The general article information is shown in the table. Details are in [2011-2021](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/tree/main/Raw%20Data/2011-2021).
 |  Description   | Results  |
 |  :----:  | :----:  |
 | Timespan  | 2011:2021 |
@@ -20,7 +20,7 @@ Repository contains the information of 5923 articles, 12 visualization result pi
 
 Articles Based On Attack Taxonomy
 -----------------
-According to the taxonomy in the survey, the attack strategies can be roughly divided into four categories, and can be divided into white box, gray box and black box according to the understanding of the model. The general information is shown in the table below. Details are in XXX.
+According to the taxonomy in the survey, the attack strategies can be roughly divided into four categories, and can be divided into white box, gray box and black box according to the understanding of the model. The general information is shown in the table below. Details are in [Taxonomy](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/tree/main/Raw%20Data/Taxonomy).
 |  Attack Taxomony   | Article Number  |
 |  :----:  | :----:  |
 |  Gradient-based  | 432  |
@@ -31,17 +31,17 @@ According to the taxonomy in the survey, the attack strategies can be roughly di
 Visualization Results
 -----------------
 Repository contains 12 visualization result pictures in PDF format, including:
-* [key article](./readme.md)
-* [author collaboration]
-* [country distribution]
-* [institution collaboration]
-* [field keyword]
-* [Geometric-transformation-based attack keyword]
-* [Gradient-based attack keyword]
-* [Transfer-based attack keyword]
-* [Score-based attack keyword]
-* [publication resource]
-* [country proportion]
-* [time distribution]
+* [key article](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/article.pdf)
+* [author collaboration](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/author.pdf)
+* [country distribution](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/map.pdf)
+* [institution collaboration](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/inst.pdf)
+* [field keyword](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/keyword.pdf)
+* [Geometric-transformation-based attack keyword](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/Ngeo.pdf)
+* [Gradient-based attack keyword](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/Ngradient.pdf)
+* [Transfer-based attack keyword](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/Ntransfer.pdf)
+* [Score-based attack keyword](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/Nscore.pdf)
+* [publication resource](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/Npub.pdf)
+* [country proportion](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/prop.pdf)
+* [time distribution](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/blob/main/Pics/time.pdf)
 
-All the network nodes information are in .
+All the network nodes information are in [Visualization](https://github.com/NanyunLengmu/Adversarial-Attack-Visualization/tree/main/Visualization).
