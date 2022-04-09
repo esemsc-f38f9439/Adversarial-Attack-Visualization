@@ -3,7 +3,7 @@ This repository contains the dataset, network node information and visualization
 
 Main Information
 -----------------
-Repository contains the information of 5923 articles, 12 visualization result pictures and the corresponding network node information used to generate the pictures. The general article information is shown in the table. Details are in XXX.
+Repository contains the information of 5923 articles, 12 visualization result pictures and the corresponding network node information used to generate the pictures. The general article information is shown in the table. Details are in [d](./Raw-Data).
 |  Description   | Results  |
 |  :----:  | :----:  |
 | Timespan  | 2011:2021 |
@@ -31,7 +31,7 @@ According to the taxonomy in the survey, the attack strategies can be roughly di
 Visualization Results
 -----------------
 Repository contains 12 visualization result pictures in PDF format, including:
-* [key article](./profile.md)
+* [key article](./readme.md)
 * [author collaboration]
 * [country distribution]
 * [institution collaboration]
